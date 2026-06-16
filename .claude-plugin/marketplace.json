@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "criminal-adv-os-marketplace",
+  "description": "Marketplace oficial do plugin Criminal Adv-OS — defesa penal brasileira com IA.",
+  "owner": { "name": "Sbroggio Advocacia & IA Combativa" },
+  "plugins": [
+    {
+      "name": "criminal-adv-os",
+      "source": "./criminal-adv-os",
+      "description": "Plugin full-stack de defesa penal brasileira (Criminal Defense & Procedure Master) — 60 skills em 10 camadas. Orquestrador criminal-master que dirime todas as skills por tarefa, em toda a persecucao (investigacao, acao penal, instrucao, sentenca, recursos, execucao). Inclui o MOTOR PENAL TEMPORAL (prescricao, decadencia/perempcao, dosimetria, motor de calculo de pena, concurso, extincao da punibilidade), execucao penal (progressao, livramento, remicao, detracao, beneficios, incidentes), acordos (ANPP, transacao, sursis processual e penal), gestao processual (competencia, prazos, nulidades, cadeia de custodia), defesa e liberdade (flagrante/custodia, preventiva, resposta a acusacao, alegacoes, HC, MS criminal, investigacao defensiva), recursos (RESE, apelacao, embargos, REsp/RE, revisao criminal), tribunal do juri e nucleos de leis penais especiais (drogas, hediondos, orcrim, lavagem, violencia domestica). Fundacao juridica enraizada: CP + CPP + LEP consolidados + leis especiais + jurisprudencia STF/STJ, com a lei VIGENTE de 2024-2026 (art. 112 LEP reescrito pela Lei 15.402/2026; Antifacao Lei 15.358/2026; feminicidio autonomo Lei 14.994/2024). Suprema Corte criminal R1-R4 e anti-alucinacao por design. Foco: defesa.",
+      "author": { "name": "Sbroggio Advocacia & IA Combativa" }
+    }
+  ]
+}

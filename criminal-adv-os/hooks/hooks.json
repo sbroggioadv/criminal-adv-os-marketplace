@@ -1,0 +1,14 @@
+{
+  "SessionStart": [
+    {
+      "matcher": "",
+      "hooks": [
+        {
+          "type": "command",
+          "command": "echo '[criminal-adv-os] Criminal Defense & Procedure Master ativo. Porta unica: criminal-master. Onboarding: /start-criminal. Foco: defesa penal. Sempre passar pela gestao processual (competencia/prazos/nulidades) e fechar pela suprema-corte-criminal. ATENCAO lei vigente 2026: art. 112 LEP reescrito pela Lei 15.402/2026 (base 1/6 + excecoes, NAO os 16-70% de 2019); Antifacao Lei 15.358/2026; feminicidio autonomo Lei 14.994/2024. Ler a redacao nao-tachada em context/.'",
+          "timeout": 5
+        }
+      ]
+    }
+  ]
+}

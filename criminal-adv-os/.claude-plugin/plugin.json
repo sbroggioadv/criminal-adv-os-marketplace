@@ -1,0 +1,8 @@
+{
+  "name": "criminal-adv-os",
+  "version": "1.0.0",
+  "description": "Plugin Claude Code de defesa penal brasileira (Criminal Defense & Procedure Master). Orquestrador criminal-master que dirime todas as skills por tarefa, em toda a persecucao: investigacao, acao penal, instrucao, sentenca, recursos e execucao. Inclui o MOTOR PENAL TEMPORAL (prescricao, decadencia/perempcao, dosimetria, motor de calculo de pena, prazos processuais penais e execucao penal temporal — progressao/livramento/remicao/detracao), acordos (ANPP, transacao, sursis processual, sursis penal), nulidades e cadeia de custodia, habeas corpus, revisao criminal, investigacao defensiva, tribunal do juri e nucleos de leis penais especiais. Fundacao juridica enraizada: CP + CPP + LEP consolidados + leis especiais + jurisprudencia STF/STJ, com a lei VIGENTE de 2024-2026 (ex.: art. 112 LEP reescrito pela Lei 15.402/2026; Antifacao Lei 15.358/2026; feminicidio autonomo Lei 14.994/2024). Suprema Corte criminal R1-R4 e anti-alucinacao por design. Foco: defesa. Onboarding via /start-criminal.",
+  "author": {
+    "name": "Sbroggio Advocacia & IA Combativa"
+  }
+}
