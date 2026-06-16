@@ -21,6 +21,7 @@
 | `cpp-3689-41.md` | Código de Processo Penal consolidado (~384KB) | idem |
 | `lep-7210-84.md` | Lei de Execução Penal consolidada (~159KB) | idem — **art. 112 tem redação 2026, ler a NÃO-tachada** |
 | `penal-especial.md` | Recortes vigentes de leis especiais + reformas 2024-2026 | ler antes de citar lei especial |
+| `lei-9099-95.md` | Lei 9.099/95 — JECrim (recorte criminal arts. 60-92): transação penal, sursis processual, IMPO, TCO | **grep o artigo** (61/76/89) + ler a faixa vigente |
 | `jurisprudencia-criminal.md` | Súmulas/temas STF/STJ marcados ✅/🟡/❌ | só citar ✅; 🟡 conferir; nunca ❌ |
 
 ## Fluxo da persecução penal (conduzido pelo `criminal-master`)
